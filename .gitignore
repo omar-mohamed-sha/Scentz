@@ -1,0 +1,82 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Local NuGet caches
+*.nupkg
+# Comment if you want to store restored packages in source control
+packages/
+
+# Visual Studio cache directories
+.vscode/
+
+# MSTest test result files
+TestResults/
+
+# Build results
+*.build.log
+*.log
+
+# NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET temporary files
+wwwroot/**/*.db
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Azure Pipelines
+.azure-pipelines
+
+# Dotnet publish output
+publish/
+
+# Docker files
+docker-compose*.yml
+
+# IIS Express
+applicationhost.config
+
+# Configuration debug files
+*.vsix
+
+# Log files
+*.log
+
+# Static web assets cache
+**/staticwebassets.cache.json
+
+# Local appsettings
+appsettings.Development.json
