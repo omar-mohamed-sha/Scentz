@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+HUrDa5Nr/8=",
+  "success": true,
+  "projectFilePath": "/home/blaze/Documents/Projects/Websites/Scentz/Scentz.csproj",
+  "expectedPackageFiles": [
+    "/home/blaze/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
